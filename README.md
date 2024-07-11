@@ -1,3 +1,3 @@
-# rock-paper-scissors-jS-with-UI-brainnest
+# rock-paper-scissors-jS
  
 Link: https://github.com/ncasteln/rock-paper-scissors-jS
